@@ -1,7 +1,5 @@
 # Wordpress Yazı Sayfalama Fonksiyonu
 
-Yazı içinde, 
+Fonksiyon kullanım ve yerleştirme detayları için aşağıdaki linki ziyaret edebilirsiniz.
 
-<!--nextpage-->
-
-ifadesini kullanırsanız içeriğiniz kendi içinde sayfalanacaktır.
+http://www.bercanozcan.com/wordpress-yazi-ici-sayfalama/
