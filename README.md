@@ -1,2 +1,7 @@
-# Wordpress-Yaz-i-Sayfalama
-Wordpress Yazı İçi Sayfalama Fonksiyonu
+# Wordpress Yazı Sayfalama Fonksiyonu
+
+Yazı içinde, 
+
+<!--nextpage-->
+
+ifadesini kullanırsanız içeriğiniz kendi içinde sayfalanacaktır.
